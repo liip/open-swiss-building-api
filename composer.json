@@ -18,7 +18,7 @@
         "composer/pcre": "^3.1",
         "doctrine/doctrine-bundle": "^2.11",
         "doctrine/doctrine-migrations-bundle": "^3.3",
-        "doctrine/orm": "^2.17",
+        "doctrine/orm": "^3.2",
         "jsor/doctrine-postgis": "dev-dbal-deprecations#c82761b99023f09e2b9f5ea53baf8719ee7a5b02 as v2.2",
         "meilisearch/meilisearch-php": "^1.6",
         "nelmio/api-doc-bundle": "^4.19",
